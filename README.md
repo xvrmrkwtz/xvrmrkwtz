@@ -1,4 +1,5 @@
-<h1>Hi, I'm Xavier! <br/>Programmer</a>, Musician</a>, Audio Engineer</a></h1>
+<h1>Hi, I'm Xavier!</h1>
+I'm from Brooklyn New York. I graduated from Colby College with a degree in Computer Science focusing in AI and audio software development. I have a passion for music and all of the technical aspects involved in the creation of it from theory, to production, to mixing and mastering. Feel free to take a look at my projects, connect with me on Linkedin, or send me an email!
 
 <h2>Software Development Projects:</h2>
 
